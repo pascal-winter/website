@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Here are some tools, piece of code and ideas that could be usefull in the daily practice of a modern actuary
 author: Pascal Winter
 email: pascalwinter82@yahoo.com
-#avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 url: #wiloo82.github.io
