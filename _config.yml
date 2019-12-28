@@ -63,6 +63,6 @@ google_analytics:
 #<<<<<<< HEAD
 #theme: jekyll-theme-prologue
 #=======
-theme: jekyll-theme-prologue
+#theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
