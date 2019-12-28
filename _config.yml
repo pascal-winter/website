@@ -39,7 +39,7 @@ email: pascalwinter82@yahoo.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-url: #wiloo82.github.io
+url:  https://wiloo82.github.io
 baseurl: /website
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
