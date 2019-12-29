@@ -11,18 +11,50 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 
+# Top  Banner #################
   main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Home"
+    url: /
+  - title: "IPA"
+    url: /IPA/
+  - title: "Toolkit"
+    url: /Toolkit/
+  - title: "External Links"
+    url: /externallinks/
+  - title: "About"
+    url: /About/
+
+# Sidebar #################
+  docs:
+  - title: "Introduction"
+    url: /ipa/introduction/
+    children:
+      - title: "Abstract"
+        url: /ipa/introduction/#abstract
+      - title: "History"
+        url: /ipa/introduction/#history
+      - title: "Overview"
+        url: /ipa/introduction/#overview
+
+  - title: "Formalisation"
+    url: /ipa/formalisation/
+    children:
+      - title: "IPA funds concept"
+        url: /ipa/formalisation/#concept
+      - title: "Mathematics"
+        url: /ipa/formalisation/#mathematics
+
+  - title: "Simulation"
+    url: /ipa/simulation
+    children:
+      - title: "Population"
+        url: /ipa/simulation/#modelpoint
+      - title: "Algorithm"
+        url: /ipa/simulation/#algorithm
+
+  - title: "Extras"
+    children:
+      - title: "AAAAAAAAA"
+        url: /docs/stylesheets/
+      - title: "AAAAAAA"
+        url: /docs/javascript/
