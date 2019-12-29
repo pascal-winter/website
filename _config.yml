@@ -67,6 +67,7 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 
-
+# Sass/SCSS
 sass:
-    style: compressed
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
