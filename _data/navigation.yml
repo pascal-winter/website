@@ -16,13 +16,13 @@
   - title: "Home"
     url: /
   - title: "IPA"
-    url: /IPA/
+    url: /ipa/
   - title: "Toolkit"
-    url: /Toolkit/
+    url: /toolkit/
   - title: "External Links"
     url: /externallinks/
   - title: "About"
-    url: /About/
+    url: /about/
 
 # Sidebar #################
   docs:
