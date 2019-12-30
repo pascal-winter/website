@@ -4,6 +4,7 @@ title: "IPA Fund Simulation"
 permalink: /ipa/simulation/
 sidebar:
   nav: "docs"
+classes: wide
 ---
 
 ## ModelPoints  <a name="modelpoint"></a>
@@ -15,8 +16,9 @@ Here are the *Model Points*:
 
 ## ModelPoints  <a name="algorithm"></a>
 
-asdclasjclsacdjalkdsca
-afvsdfvf
-sfdvsdfv
-sfdvsdfvsfdvsv
-vsdvsfdvsdvf
+<div>
+ <p align="center">
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
+ 	   title="Under Construction" width="150" height="100" />
+ </p>
+</div>

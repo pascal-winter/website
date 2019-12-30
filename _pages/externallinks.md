@@ -1,17 +1,19 @@
 ---
 layout: archive
-title: "Sample Page"
+title: "External Links"
 permalink: /externallinks/
 author_profile: true
+classes: wide
 ---
 
 
 ### IPA related:
 
-1. Actuarial fairness and solidarity in pooled annuity funds. *Donnelly, C. (2018)*
-2. Tontine Pensions Could Solve the Chronic Underfunding of State and Local Pension Plans. *Jonathan Barry Forman, J., & Sabin, M. J. (2018)*
-3. New thinking on how to solve Australia's post-retirement challenge. *Newfield, P. (May 2014)*
-4. Individual Tontine Accounts *Richard K. Fullmer, M. J. (2018).*
+1. [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
+2. [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
+3. [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf)*(Newfield, 2014)*
+4. [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)* to name a few.
+
 
 ### Other:
 Cours de Frederic Planchet (french): [Ressources Actuarielles](http://www.ressources-actuarielles.net/)

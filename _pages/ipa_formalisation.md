@@ -4,20 +4,24 @@ title: "IPA - Formalisation"
 permalink: /ipa/formalisation/
 sidebar:
   nav: "docs"
+classes: wide
 ---
 
 ## Fund Concept  <a name="concept"></a>
 
-Here are the *Model Points*:
-adscascdsadc,m
-gbdfbdfbg
-dbgdbg
-dbgdfbgdbgdf
+<div>
+ <p align="center">
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
+ 	   title="Under Construction" width="150" height="100" />
+ </p>
+</div>
+
 
 ## Mathematic framework  <a name="mathematics"></a>
 
-asdclasjclsacdjalkdsca
-afvsdfvf
-sfdvsdfv
-sfdvsdfvsfdvsv
-vsdvsfdvsdvf
+<div>
+ <p align="center">
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
+ 	   title="Under Construction" width="150" height="100" />
+ </p>
+</div>
