@@ -7,7 +7,7 @@ classes: wide
 header:
   #image: /assets/images/dabi.jpg
   overlay_color: "#333"
-excerpt: "A Pythonic approach to Actuarial practice"
+excerpt: "with a Pythonic approach"
 ---
 
 ## Individual Pooled Annuities
