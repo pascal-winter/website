@@ -15,7 +15,7 @@ excerpt: "with a Pythonic approach"
 
 In past few years, I toyed with the idea of generalizing the Tontines. From an actuarial prospective, it seems that a flexible Tontine funds can provide an interesting vehicle for retirement and/or investment.
 
-I was pleased to discover that several academic studies already explored such ideas:
+I was pleased to discover that several academic studies already studied such ideas:
 * [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
 * [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
 * [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf)*(Newfield, 2014)*
@@ -28,7 +28,7 @@ I took upon to further explore this type of funds - especially on the allocation
 * Different investment underlyings/allocation for each member
 * Different horizon for each member
 
-The detail of my study and proposed allocation can be found in the [**IPA section**]({{ "/ipa" | relative_url }}) of this site.
+The detail of the study and proposed allocation can be found in the [**IPA section**]({{ "/ipa" | relative_url }}) of this site.
 
 
 ## Toolkit
@@ -40,10 +40,11 @@ The detail of my study and proposed allocation can be found in the [**IPA sectio
  </p>
 </div>
 
-A few years back, I have been introduced to Pandas, Numpy and other scientific packages for "non-IT experts". After a few hours toying with Jupiter - it immediately looked like it had the potential to revolutionize the daily actuarial practice:
+When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - and after a few hours toying with Jupiter - it immediately looked to like it had a huge potential for daily actuarial practice:
 * Data wrangling capabilities
 * Replicability
 * Robustness
 * Depth of available libraries
+* Possible integration in company systems
 
 In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the routine I developed on my free time to test the potential and learn how to use these revolutionary tools.
