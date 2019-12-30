@@ -19,7 +19,7 @@ I was pleased to discover that several academic studies already explored such id
 * *Richard K. Fullmer, M. J. (2018)*  [Individual Tontine Annuities](https://ssrn.com/abstract=3217551).  
 * *Donnelly, C. (2015)* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120).
 
-I took upon to further explore this kind of fund mechanism - especially on the allocation principles necessary to ensure "actuarial fairness" in a mechanism that allows:
+I took upon to further explore this type of funds - especially on the allocation principles necessary to ensure "actuarial fairness" in a mechanism that allows:
 * Non-homogeneous population (in terms of expected survival rate)
 * Open entry mechanism: how to accommodate new entrants at each time steps ?
 * Different Unit of accounts for each member
@@ -30,10 +30,17 @@ The detail of my study and proposed allocation can be found in the [**IPA sectio
 
 ## Toolkit
 
+<div>
+ <p align="center">
+   <img src="assets/images/wip_small.jpg" alt="wip"
+ 	   title="Under Construction" width="150" height="100" />
+ </p>
+</div>
+
 A few years back, I have been introduced to Pandas, Numpy and other scientific packages for "non-IT experts". After a few hours toying with Jupiter - it immediately looked like it had the potential to revolutionize the daily actuarial practice:
 * Data wrangling capabilities
 * Replicability
 * Robustness
 * Depth of available libraries
 
-In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the tools I developed on my free time to test the potential and learn how to use these revolutionary tools.
+In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the routine I developed on my free time to test the potential and learn how to use these revolutionary tools.
