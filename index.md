@@ -19,7 +19,7 @@ I was pleased to discover that several academic studies already explored such id
 * [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
 * [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
 * [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf)*(Newfield, 2014)*
-* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)* to name a few.
+* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)*
 
 
 I took upon to further explore this type of funds - especially on the allocation principles necessary to ensure "actuarial fairness" in a mechanism that would allow:

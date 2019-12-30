@@ -2,7 +2,8 @@
 layout: collection
 title: "Various Toolkits"
 permalink: /toolkit/
-collection: portfolio
+author_profile: true
+collection: portfolioo
 entries_layout: grid
 classes: wide
 header:
