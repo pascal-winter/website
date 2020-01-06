@@ -49,6 +49,10 @@ This is a numbered list:
 This is a link: [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/)   
 This is a link to baseurl: [*Quick-Start Guide*]({{ "/docs/quick-start-guide/" | relative_url }})
 
+##### Dataframe to html
+a = dF_des.to_html(notebook = True).replace('\n','')
+
+
 ## Code
 
 ```yaml
