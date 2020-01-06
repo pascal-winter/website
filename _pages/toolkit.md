@@ -3,7 +3,7 @@ layout: collection
 title: "Various Toolkits"
 permalink: /toolkit/
 author_profile: true
-collection: portfolioo
+collection: portfolio
 entries_layout: grid
 classes: wide
 header:
