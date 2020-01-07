@@ -30,10 +30,12 @@ The target is simple: from a Training dataset which contains passengers informat
 
 Below are some piece of code I used to do my own approach. Note that the purpose was not to score the highest (with some reflection, there are several ways the **Feature Engineering** could be boosted), but more to hone one skills on Python for Data Science and start to build my own library of functions that I could re-use and perfect for other studies.
 
-The code is **Spyder** friendly and not comprehensive.
+The code listed below is **Spyder** friendly and not comprehensive.   
+The full kernel can be downloaded here: [<i class="fas fa-download"></i> Titanic Kernel]({{site.baseurl}}/assets/other/titanic.zip){: .btn .btn--success}
+
 
 ## Initialisation
-First we need to import the libraries. In this case, `pandas` and  `numpy` for data manipulation, `matplotlip` and `seaborn` for visualisation. Note that `dalib` is a home made library.
+First we need to import the libraries. In this case, `pandas` and  `numpy` for data manipulation, `matplotlip` and `seaborn` for visualisation.
 
 ```python
 import pandas as pd
@@ -408,6 +410,36 @@ dF_All2 = dF_All2.drop('mean', axis=1)
 dF_All2['Age_G'] = dF_All2['Age_Fill']
 ```
 
+### Object variable
+We will parse the *'Name'* to extract the *'Title'* and then standardise it.
+
+```python
+#------------------------ Title -----------------------------------------------#
+dF_All["Title"] = dF_All['Name'].str.extract(' ([A-Za-z]+)\.', expand=False)
+# get the dict for mapping
+dict_map = dict(enumerate(dF_All['Title'].unique())) # enumerate
+dict_map = {v: k for k, v in dict_map.items()} # reversreverse map
+dict_map ={'Mr': 'Mr',
+             'Mrs': 'Mrs',
+             'Miss': 'Miss',
+             'Master': 'Master',
+             'Don': 'Mr',
+             'Rev':  'Spe',
+             'Dr': 'Spe',
+             'Mme': 'Mrs',
+             'Ms': 'Miss',
+             'Major': 'Spe',
+             'Lady': 'Spe',
+             'Sir': 'Mr',
+             'Mlle': 'Miss',
+             'Col': 'Spe',
+             'Capt': 'Spe',
+             'Countess': 'Spe',
+             'Jonkheer': 'Mr',
+             'Dona': 'Mrs'}
+# replace
+dF_All['Title'] = dF_All['Title'].replace(dict_map)
+```
 
 ### Categorical variable
 For Categorical, we will use **One hot encoding** and **Numerical encoding** for cardinal variables.
@@ -416,15 +448,25 @@ For Categorical, we will use **One hot encoding** and **Numerical encoding** for
 * *'Sex'*: 0 / 1
 * *'Parch'*: group: 0 / 1 / 2 -5-3-4-6 - keep as is
 * *'Embarked'*: One hot encoding
+* *'Title'*: One hot encoding
+
+Here is an example of **One hot encoding**:
+```python
+# Hot encoding
+dF_dummy = pd.get_dummies(dF_All['Title'], prefix = 'Title' )
+dF_All = pd.concat([dF_All, dF_dummy], axis = 1)
+```
+
 
 ### Continuous variables
 For categorical, we will use **Binning** on *'Age'* and will **Normalise** *'Fare'*.
+
 
 ## Machine learning algorithm
 The code below was mostly inspired from these 2 kernels, even though the structure is now quite different:   
 [Kernel 1](https://www.kaggle.com/atuljhasg/titanic-top-3-models)   
 [Kernel 2](https://www.kaggle.com/rishitdagli/titanic-prediction-using-9-algorithims)   
-They are great reads and where very valuable to me.
+They are great reads and were very valuable to me.
 
 The 3 classifiers (or models) we are going to use are:
 * A standard **Logistic Regression**
@@ -474,7 +516,7 @@ dF_ModelFeat = pd.DataFrame(index = X_train.columns)
 ```
 
 ### Training
-We can than then train each classifier and store their accuracy:
+We can than then train each classifier and store their fit accuracy:
 
 ```python
 for i in range(len(models)):
@@ -522,7 +564,7 @@ def model_assessment(classifiers, models, X, y, nsplit):
     sns.catplot(kind='box', data=df_Acc.T)
     return df_Res, df_Acc
 ```
-Final results are as follow, which mean that in average, the Random Forest classifier is probably the best fit:    
+Final results are as follow:    
 ![Test]({{site.baseurl}}/assets/images/titanic/titmodelassess.png){: .align-center}
 
 An important step to understand the models is to be able to track the **feature importance**.
