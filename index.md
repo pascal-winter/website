@@ -33,13 +33,6 @@ The detail of the study and proposed allocation can be found in the [**IPA secti
 
 ## Toolkit
 
-<div>
- <p align="center">
-   <img src="assets/images/wip_small.jpg" alt="wip"
- 	   title="Under Construction" width="150" height="100" />
- </p>
-</div>
-
 When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - and after a few hours toying with Jupiter - it immediately looked to like it had a huge potential for daily actuarial practice:
 * Data wrangling capabilities
 * Replicability

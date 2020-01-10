@@ -20,8 +20,8 @@ classes: wide
 
 ### Fintech
 
-
-
 ## Other
+
+### Actuarial Ressources
 Ressources actuarielles (french): [Ressources Actuarielles](http://www.ressources-actuarielles.net/)   
 Actu d'Actuaires (french): [Actu d'Actuaires](https://actudactuaires.typepad.com/)
