@@ -7,7 +7,7 @@ toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/equation3.png
+  image: /assets/images/equation3small.png
   teaser: /assets/images/equation3.png
 
 ---

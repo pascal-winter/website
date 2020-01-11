@@ -7,10 +7,17 @@ toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/esg.png
+  overlay_color: "#333"
+  #image: /assets/images/esg.png
   teaser: /assets/images/esg.png
 
 ---
+
+**Note:**   
+This piece of code is most suitable for learning and tinkering.   
+For a professional use - I would recommend to use a well tested ESG engine, along with proper documentation, calibration and test routines.
+{: .notice--warning}
+
 
 The documentation for this study is in progress.
 <div>
@@ -19,7 +26,6 @@ The documentation for this study is in progress.
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
-
 
 ## Repository
 
