@@ -1,0 +1,60 @@
+# main links
+#main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# Top  Banner #################
+  main:
+  - title: "Home"
+    url: /
+  - title: "IPA"
+    url: /ipa/
+  - title: "Toolkit"
+    url: /toolkit/
+  - title: "External Links"
+    url: /externallinks/
+  - title: "About"
+    url: /about/
+
+# Sidebar #################
+  docs:
+  - title: "Introduction"
+    url: /ipa/introduction/
+    children:
+      - title: "Abstract"
+        url: /ipa/introduction/#abstract
+      - title: "History"
+        url: /ipa/introduction/#history
+      - title: "Current Practices"
+        url: /ipa/introduction/#current
+
+  - title: "Formalisation"
+    url: /ipa/formalisation/
+    children:
+      - title: "IPA funds concept"
+        url: /ipa/formalisation/#concept
+      - title: "Mathematics"
+        url: /ipa/formalisation/#mathematics
+
+  - title: "Simulation"
+    url: /ipa/simulation
+    children:
+      - title: "Population"
+        url: /ipa/simulation/#modelpoint
+      - title: "Algorithm"
+        url: /ipa/simulation/#algorithm
+
+  - title: "Extras"
+    children:
+      - title: "AAAAAAAAA"
+        url: /docs/stylesheets/
+      - title: "AAAAAAA"
+        url: /docs/javascript/
