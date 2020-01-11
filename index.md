@@ -7,10 +7,22 @@ classes: wide
 header:
   #image: /assets/images/dabi.jpg
   overlay_color: "#333"
+<<<<<<< HEAD
 excerpt: "with a Pythonic approach"
 ---
 
 ## Individual Pooled Annuities
+=======
+  actions:
+     - label: "IPA"
+       url: "/ipa/"
+     - label: "Toolkit"
+       url: "/toolkit/"
+excerpt: "with a Pythonic approach"
+---
+
+## IPA: Individual Pooled Annuities
+>>>>>>> master
 ### A community based Retirement fund
 
 In past few years, I toyed with the idea of generalizing the Tontines. From an actuarial prospective, it seems that a flexible Tontine funds can provide an interesting vehicle for retirement and/or investment.
@@ -18,7 +30,11 @@ In past few years, I toyed with the idea of generalizing the Tontines. From an a
 I was pleased to discover that several academic studies already studied such ideas:
 * [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
 * [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
+<<<<<<< HEAD
 * [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf)*(Newfield, 2014)*
+=======
+* [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf) *(Newfield, 2014)*
+>>>>>>> master
 * [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)*
 
 
@@ -31,13 +47,26 @@ I took upon to further explore this type of funds - especially on the allocation
 The detail of the study and proposed allocation can be found in the [**IPA section**]({{ "/ipa" | relative_url }}) of this site.
 
 
+<<<<<<< HEAD
 ## Toolkit
 
 When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - and after a few hours toying with Jupiter - it immediately looked to like it had a huge potential for daily actuarial practice:
+=======
+
+## Toolkit
+
+When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - it immediately looked to like it had a huge potential for daily actuarial practice:
+>>>>>>> master
 * Data wrangling capabilities
 * Replicability
 * Robustness
 * Depth of available libraries
+<<<<<<< HEAD
 * Possible integration in company systems
 
 In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the routine I developed on my free time to test the potential and learn how to use these revolutionary tools.
+=======
+* Possible integration in IT systems
+
+In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the routine I developed on my free time to test the potential and learn how to use these tools that I found revolutionary.
+>>>>>>> master
