@@ -154,11 +154,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-<<<<<<< HEAD
-       url: "https://github.com/pascal-winter/actuarial-tools/"
-=======
       url: "https://github.com/pascal-winter/actuarial-tools/"
->>>>>>> master
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
