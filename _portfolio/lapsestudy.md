@@ -20,15 +20,6 @@ header:
 </div>
 
 
-## Repository
-
-The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
-Specifically:
-* Dedicated code: [lapse_study.py](https://github.com/pascal-winter/actuarial-tools/blob/master/lapse_study.py)
-* Routine to generate a fictious portfolio: [createdataset.py](https://github.com/pascal-winter/actuarial-tools/blob/master/createdataset.py)
-* External library [**lifelines**](https://lifelines.readthedocs.io/en/latest/)
-
 ## Methodology
 
 We will use **Kaplan-Meier estimator** - which is a reference for univariate survival function estimation. More information can be found on the [wiki page](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) or in any statistical resource.

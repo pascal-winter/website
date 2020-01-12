@@ -15,7 +15,7 @@ header:
 
 **Note:**   
 This piece of code is most suitable for learning and tinkering.   
-For a professional use - I would recommend to use a well tested ESG engine, along with proper documentation, calibration and test routines.
+For a professional use - it is recommended selecting a well tested ESG engine, along with proper documentation, calibration and test routines.
 {: .notice--warning}
 
 
@@ -26,11 +26,3 @@ The documentation for this study is in progress.
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
-
-## Repository
-
-The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
-Specifically:
-* Dedicated code: [esglib.py](https://github.com/pascal-winter/actuarial-tools/blob/master/)
-* Parameters folder: [0_ESG_Tables](https://github.com/pascal-winter/actuarial-tools/blob/master/)

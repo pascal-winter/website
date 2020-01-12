@@ -16,17 +16,10 @@ Allocation: Expenses, Revenues or anything really - is a common thematic in Actu
 In the context of **IFRS17**, this problematic becomes even more crucial since actual revenues and expense items will have to be allocated at a **Unit of Account** level on Monthly or Quarterly basis.
 This new level of complexity requires adequate tools and automation.   
 
-We will see here the potential of `Pandas` on such problematics - on a simple example.
-
-The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [actuarial-tools](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
-Specifically:
-* [opex_study.py](https://github.com/pascal-winter/actuarial-tools/blob/master/opex_study.py)
-
+We will see here the potential of `Pandas` for allocation - on a simple example.
 
 ## Introduction
-In a galaxy far, far away, an asteroid miner, "Jill", has gained intergalactic reputation in her field.
-She has a good idea on the revenues she generates per **asteroid** mined, but she still has to clearly identify the fully loaded resources she spent on each case. Now that her **Droid mining fleet** is stable and her ship - the infamous **"Millennials Fallout"** is operational, she has time to analyse her resource allocation.
+In a galaxy far, far away, an asteroid miner, "Jill" has a good idea on the revenues she generates per **asteroid** mined. But she still needs to clearly identify the fully loaded resources she spent on each case. Now that her **Droid mining fleet** is stable and her ship - the infamous **"Millennials Fallout"** is operational, she has time to analyse her resource allocation.
 
 ## Data
 By querying the **"Millennials Fallout"** registry, Jill's is able to get a summary of the expenses incurred on the last revolution of her home planet around its star (*commonly known as "year" for earth inhabitants")*.
