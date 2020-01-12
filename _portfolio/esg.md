@@ -8,7 +8,7 @@ toc: true
 toc_label: "Content"
 header:
   overlay_color: "#333"
-  #image: /assets/images/esg.png
+  #image: /assets/images/esg2.png
   teaser: /assets/images/esg.png
 
 ---
@@ -30,7 +30,7 @@ The documentation for this study is in progress.
 ## Repository
 
 The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/wiloo82/actuarial-tools/){: .btn .btn--success}   
+The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
 Specifically:
-* Dedicated code: [esglib.py](https://github.com/wiloo82/actuarial-tools/blob/master/)
-* Parameters folder: [0_ESG_Tables](https://github.com/wiloo82/actuarial-tools/blob/master/)
+* Dedicated code: [esglib.py](https://github.com/pascal-winter/actuarial-tools/blob/master/)
+* Parameters folder: [0_ESG_Tables](https://github.com/pascal-winter/actuarial-tools/blob/master/)

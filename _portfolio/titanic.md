@@ -31,10 +31,10 @@ The target is simple: from a Training dataset which contains passengers informat
 Below are some piece of code I used to do my own approach. Note that the purpose was not to score the highest (with some reflection, there are several ways the **Feature Engineering** could be boosted), but more to hone one skills on Python for Data Science and start to build my own library of functions that I could re-use and perfect for other studies.
 
 The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [actuarial-tools](https://github.com/wiloo82/actuarial-tools/){: .btn .btn--success}   
+The full kernel can be accessed in the GitHub repository [actuarial-tools](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
 Specifically:
-- Titanic dedicated code: [Titanic.py](https://github.com/wiloo82/actuarial-tools/blob/master/Titanic.py)
-- Library "Data Analytics": [dalib.py](https://github.com/wiloo82/actuarial-tools/blob/master/dalib.py)
+- Titanic dedicated code: [Titanic.py](https://github.com/pascal-winter/actuarial-tools/blob/master/Titanic.py)
+- Library "Data Analytics": [dalib.py](https://github.com/pascal-winter/actuarial-tools/blob/master/dalib.py)
 
 ## Initialisation
 First we need to import the libraries. In this case, `pandas` and  `numpy` for data manipulation, `matplotlip` and `seaborn` for visualisation.
@@ -234,9 +234,9 @@ def graph_univar_pred(df_data, col_predict , list_numvar, list_catvar):
 
 ```python
 # ------------------------------ Basic Heatmap --------------------------------#
-fig, ax = plt.subplots(figsize=(12, 8))
-ax.set_ylim(-0.5,len(dF_Train.corr()) + 0.5)
-sns.heatmap(dF_Train.corr(), annot=True, linewidths=0.2, ax=ax)
+plt.figure(figsize=(12, 8))
+sns.heatmap(dF_Train.corr(), annot=True, linewidths=0.2, #ax=ax,
+            vmin=-0.5, vmax=0.5, center= 0, cmap='coolwarm')
 ```
 ![Test]({{site.baseurl}}/assets/images/titanic/titcorr.png)
 

@@ -31,7 +31,7 @@ In past few years, several academic studies already explored such ideas:
 The **IPA - "Individual Pooled Annuity"** is one of this **Tontine generalisation** - albeit slightly different - since the **"actuarial fairness"** mechanism for allocating mortality proceeds allows:
 * Non-homogeneous population (in terms of expected survival rate)
 * Open entry mechanism: how to accommodate new entrants at each time steps ?
-* Different investment underlyings/allocation for each member
+* Different investment underlying/allocation for each member
 * **Different horizon, maturity and outflow structure for each member**
 
 The detail of the study and proposed allocation can be found in the [**IPA section**]({{ "/ipa" | relative_url }}) of this site.
@@ -41,7 +41,7 @@ The detail of the study and proposed allocation can be found in the [**IPA secti
 
 ### Basic routines for daily actuarial practice
 
-When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - it immediately looked to like it had a huge potential for daily actuarial practice:
+When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - it immediately looked like it had a huge potential for daily actuarial practice:
 * Data wrangling capabilities
 * Replicability
 * Robustness

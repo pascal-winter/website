@@ -12,7 +12,6 @@ header:
 
 ---
 
-This study is WIP:
 <div>
  <p align="center">
    <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
@@ -24,14 +23,31 @@ This study is WIP:
 ## Repository
 
 The code listed below is **Spyder** friendly and not comprehensive.   
-The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/wiloo82/actuarial-tools/){: .btn .btn--success}   
+The full kernel can be accessed in the GitHub repository [**actuarial-tools**](https://github.com/pascal-winter/actuarial-tools/){: .btn .btn--success}   
 Specifically:
-* Dedicated code: [lapse_study.py](https://github.com/wiloo82/actuarial-tools/blob/master/lapse_study.py)
-* Routine to generate a fictious portfolio: [createdataset.py](https://github.com/wiloo82/actuarial-tools/blob/master/createdataset.py)
-
+* Dedicated code: [lapse_study.py](https://github.com/pascal-winter/actuarial-tools/blob/master/lapse_study.py)
+* Routine to generate a fictious portfolio: [createdataset.py](https://github.com/pascal-winter/actuarial-tools/blob/master/createdataset.py)
+* External library [**lifelines**](https://lifelines.readthedocs.io/en/latest/)
 
 ## Methodology
 
+We will use **Kaplan-Meier estimator** - which is a reference for univariate survival function estimation. More information can be found on the [wiki page](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) or in any statistical resource.
+
+Here is the estimate:   
+
+$$\hat{S}(t) = \prod_{t_i \lt t} \frac{n_i - d_i}{n_i}$$   
+
+with $$d_i$$ the number of "failures" at time $$t$$ and $$n_i$$ the exposed population just before time $$t$$.
+
+
+**Tip:**   
+If you are new to the **Kaplan-Meier estimator**, a simple practical example is generally the best way to grasp the intuition of the method. An example is available here: [**KaplanMeier_Refresh.xlsx**](https://github.com/pascal-winter/actuarial-tools/tree/master/2.DOCS)
+{: .notice--warning}
+
+
+
+## Data Preparation
+
 <div>
  <p align="center">
    <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
@@ -40,11 +56,14 @@ Specifically:
 </div>
 
 
-## Aggregation and Visualisation
+## Analysis
 
-<div>
- <p align="center">
-   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
- 	   title="Under Construction" width="150" height="100" />
- </p>
-</div>
+### Aggregation & Subset selection
+
+
+
+### Kaplan-Meier estimation
+https://lifelines.readthedocs.io/en/latest/
+
+
+### Visualisation
