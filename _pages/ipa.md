@@ -7,20 +7,21 @@ sidebar:
 classes: wide
 ---
 
-## Individual Pooled Annuities
-### A community based Retirement fund
+## IPA: Individual Pooled Annuities
+### A self organised Retirement fund
 
-In past few years, I toyed with the idea of generalizing the Tontines. From an actuarial prospective, it seems that a flexible Tontine funds can provide an interesting vehicle for retirement and/or investment.
+From an actuarial prospective, a **Tontine** can be seen as a vehicle to pool **longevity risk**.
+By generalising its mechanism - we can obtain a fund that provides an interesting solution for retirement and/or investment.
 
-I was pleased to discover that several academic studies already explored such ideas:
+In past few years, several academic studies already explored such ideas:
 * [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
 * [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
-* [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf)*(Newfield, 2014)*
-* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)* to name a few.
+* [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf) *(Newfield, 2014)*
+* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)*
 
 
-I took upon to further explore this type of funds - especially on the allocation principles necessary to ensure "actuarial fairness" in a mechanism that would allow:
+The **IPA - "Individual Pooled Annuity"** is one of this **Tontine generalisation** - albeit slightly different - since the **"actuarial fairness"** mechanism for allocating mortality proceeds allows:
 * Non-homogeneous population (in terms of expected survival rate)
 * Open entry mechanism: how to accommodate new entrants at each time steps ?
-* Different investment underlyings/allocation for each member
-* Different horizon for each member
+* Different investment underlying/allocation for each member
+* **Different horizon, maturity and outflow structure for each member**
