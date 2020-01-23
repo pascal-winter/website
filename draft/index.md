@@ -28,6 +28,14 @@ In past few years, several academic studies already explored such ideas:
 * [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)*
 
 
+The **IPA - "Individual Pooled Annuity"** is one of this **Tontine generalisation** - albeit slightly different - since the **"actuarial fairness"** mechanism for allocating mortality proceeds allows:
+* Non-homogeneous population (in terms of expected survival rate)
+* Open entry mechanism: how to accommodate new entrants at each time steps ?
+* Different investment underlying/allocation for each member
+* **Different horizon, maturity and outflow structure for each member**
+
+The detail of the study and proposed allocation can be found in the [**IPA section**]({{ "/ipa" | relative_url }}) of this site.
+
 
 ## Toolkit
 

@@ -30,7 +30,6 @@ $$\hat{S}(t) = \prod_{t_i \lt t} \frac{n_i - d_i}{n_i}$$
 
 with $$d_i$$ the number of "failures" at time $$t$$ and $$n_i$$ the exposed population just before time $$t$$.
 
-
 **Tip:**   
 If you are new to the **Kaplan-Meier estimator**, a simple practical example is generally the best way to grasp the intuition of the method. An example is available here: [**KaplanMeier_Refresh.xlsx**](https://github.com/pascal-winter/actuarial-tools/tree/master/2.DOCS)
 {: .notice--warning}
