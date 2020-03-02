@@ -22,6 +22,13 @@ header:
 # Code to put in MD to show gallery:
 # {% include gallery caption="This is a sample gallery to go along with this case study." %}
 ---
+**Note:**
+The full kernel can be accessed in the GitHub repository [da-tools](https://github.com/pascal-winter/da-tools/){: .btn .btn--success}   
+- Main code: [da_titanic.py](https://github.com/pascal-winter/da-tools/blob/master/da_titanic.py)
+- Graph library: [graphlib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/graphlib.py)
+- DA library: [dalib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/dalib.py)
+{: .notice--warning}
+
 
 
 Studying The Kaggle [Titanic dataset]( https://www.kaggle.com/c/titanic/) was a perfect introduction to Machine Learning: it allows to really apprehend practical considerations in a beginner friendly way.
