@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-permalink: /
+permalink: #/
 title: Life Actuarial Tinkering
 classes: wide
 header:
