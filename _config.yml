@@ -36,7 +36,7 @@ baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               :  pascal-winter/pascal-winter.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #logo                     : "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-logo                     : "https://www.python.org/static/community_logos/python-powered-w-200x80.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #"https://www.python.org/static/community_logos/python-powered-w-200x80.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -120,8 +120,8 @@ analytics:
 author:
   name             : "Pascal Winter"
   avatar           : #"/assets/images/avatar.jpg"
-  bio              : "Actuary and Data Science Enthusiast"
-  location         : "Taipei, TW"
+  bio              : "Actuary - Institut des Actuaires"
+  #location         : "Taipei, TW"
   email            : "pascal.winter@winter-aas.com"
   links:
     - label: "Email"

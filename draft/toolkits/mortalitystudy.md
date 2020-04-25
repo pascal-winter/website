@@ -13,10 +13,10 @@ header:
 
 ---
 
-The documentation for this study is WIP:
+This study is WIP:
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
@@ -37,17 +37,16 @@ For more information on Exposure Calculation methodology and overall mortality s
 
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
-
 
 ## Expected Mortality Calculation
 
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
@@ -56,7 +55,7 @@ For more information on Exposure Calculation methodology and overall mortality s
 
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>

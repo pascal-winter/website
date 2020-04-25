@@ -1,14 +1,14 @@
 ---
 layout: single2
-title: "Titanic Kaggle: Basic Machine learning"
-excerpt: "The infamous collision dataset"
+title: "Exoplanet"
+excerpt: "Basic clustering tryout"
 classes: wide2
 toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/titanic/titanic.jpg
-  teaser: /assets/images/titanic/titanic.jpg
+  image: /assets/images/exoplanet/exoplanet-nasa.jpg
+  teaser: /assets/images/exoplanet/exoplanet-nasa.jpg
 #sidebar:
 #  - title: "Titanic Dataset"
 #    text: "Kaggle Competition"
@@ -24,15 +24,15 @@ header:
 ---
 **Note:**
 The full kernel can be accessed in the GitHub repository [da-tools](https://github.com/pascal-winter/da-tools/){: .btn .btn--success}   
-- Main code: [da_titanic.py](https://github.com/pascal-winter/da-tools/blob/master/da_titanic.py)
+- Main code: [da_kepler.py](https://github.com/pascal-winter/da-tools/blob/master/da_kepler.py)
 - Graph library: [graphlib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/graphlib.py)
 - DA library: [dalib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/dalib.py)
 {: .notice--warning}
 
-The documentation for this study is WIP:
+
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>

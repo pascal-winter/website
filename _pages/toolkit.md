@@ -7,9 +7,9 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 header:
-  #image: /assets/images/dabi.jpg
-  overlay_color: "#333"
-excerpt: "Bits and Bolts that could turn useful"
+  overlay_image: /assets/images/cogs.png
+  #overlay_color: "#333"
+excerpt: "Bits and Bolts useful in studies"
 #<div>
 # <p align="center">
 #   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"

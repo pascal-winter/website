@@ -30,9 +30,10 @@ The full kernel can be accessed in the GitHub repository [da-tools](https://gith
 {: .notice--warning}
 
 
+The documentation for this study is WIP:
 <div>
  <p align="center">
-   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
+   <img src="/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>

@@ -1,22 +1,36 @@
 ---
-title: "Allocation Engine Tryout"
+title: "Allocation Engine"
 excerpt: "A simple routine for allocating anything"
 classes: wide2
 toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/opex/asteroid.jpg
+  image: /assets/images/opex/asteroids.jpg
   teaser: /assets/images/opex/asteroid.jpg
 
 ---
 
-Allocation: Expenses, Revenues or anything really - is a common thematic in Actuarial and Finance field.
+As part of daily Actuarial or Finance practice - we often face an "allocation" problematic. For instance:
+* a detailed expense analysis by business line
+* a profit and loss decomposition by channel
+* a cost consumption on project basis
+* a "Transfer Pricing" approach on a pooled ALM fund
+* others...
 
-In the context of **IFRS17**, this problematic becomes even more crucial since actual revenues and expense items will have to be allocated at a **Unit of Account** level on Monthly or Quarterly basis.
-This new level of complexity requires adequate tools and automation.   
+While a simple spreadsheet is often enough to solve simple cases, the more complex ones can become time consuming, error prone and ultimately a source of resources wasting.
 
-We will see here the potential of `Pandas` for allocation - on a simple example.
+In the context of **IFRS17**, this problematic becomes even more crucial. With  increased granularity of the P/L statements - at least by **Unit of Account** - some global revenues and expense items will have to be allocated - furthermore on a Monthly or Quarterly basis as part of the critical closing process. Typical examples are **IACF** and trailer fees.
+This new level of complexity will require adequate tools and automation.
+
+We propose here a simple example to test the potential of the `Pandas` Python library for such allocation - on a simple example.
+
+
+
+
+
+
+
 
 ## Introduction
 In a galaxy far, far away, an asteroid miner, "Jill" has a good idea on the revenues she generates per **asteroid** mined. But she still needs to clearly identify the fully loaded resources she spent on each case. Now that her **Droid mining fleet** is stable and her ship - the infamous **"Millennials Fallout"** is operational, she has time to analyse her resource allocation.

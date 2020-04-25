@@ -2,20 +2,20 @@
 layout: archive
 author_profile: true
 permalink: /
-title: Life Actuarial Tinkering
+title: "Actuarial & Analytics Studies"
 classes: wide
 header:
-  #image: /assets/images/dabi.jpg
-  overlay_color: "#333"
+  #overlay_color: "#333"
+  overlay_image: /assets/images/background.jpg
   actions:
-     - label: "IPA"
-       url: "/ipa/"
+     - label: "Modern Tontines"
+       url: "/modern-tontines/"
      - label: "Toolkit"
        url: "/toolkit/"
-excerpt: "with a Pythonic approach"
+excerpt: "Distilling Complexity"
 ---
 
-## IPA: Individual Pooled Annuities
+## Modern Tontines
 ### A self organised Retirement fund
 
 From an actuarial prospective, a **Tontine** can be seen as a vehicle to pool **longevity risk**.
@@ -31,13 +31,6 @@ In past few years, several academic studies already explored such ideas:
 
 ## Toolkit
 
-### Basic routines for daily actuarial practice
+### Basic kits for daily actuarial practice
 
-When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - it immediately looked like it had a huge potential for daily actuarial practice:
-* Data wrangling capabilities
-* Replicability
-* Robustness
-* Depth of available libraries
-* Possible integration in company systems   
-
-In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I describe some of the routines I developed on my free time while tinkering with these packages.
+In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I attached some of the basic routines often re-used in daily practice.

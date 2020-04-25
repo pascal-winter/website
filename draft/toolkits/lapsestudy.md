@@ -11,17 +11,18 @@ header:
   teaser: /assets/images/equation3.png
 
 ---
-The documentation for this study is WIP:
+
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>
 
+
 ## Methodology
 
-The **Kaplan-Meier estimator** - is the reference for univariate survival function estimation. More information can be found on the [wiki page](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) or in any statistical resource.
+We will use **Kaplan-Meier estimator** - which is a reference for univariate survival function estimation. More information can be found on the [wiki page](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) or in any statistical resource.
 
 Here is the estimate:   
 
@@ -30,7 +31,7 @@ $$\hat{S}(t) = \prod_{t_i \lt t} \frac{n_i - d_i}{n_i}$$
 with $$d_i$$ the number of "failures" at time $$t$$ and $$n_i$$ the exposed population just before time $$t$$.
 
 **Tip:**   
-The **Kaplan-Meier estimator** intuition is generally easy to grasp on a simple practical example. One of them can be found here: [**KaplanMeier_Refresh.xlsx**](https://github.com/pascal-winter/actuarial-tools/tree/master/2.DOCS)
+If you are new to the **Kaplan-Meier estimator**, a simple practical example is generally the best way to grasp the intuition of the method. An example is available here: [**KaplanMeier_Refresh.xlsx**](https://github.com/pascal-winter/actuarial-tools/tree/master/2.DOCS)
 {: .notice--warning}
 
 
@@ -39,7 +40,7 @@ The **Kaplan-Meier estimator** intuition is generally easy to grasp on a simple 
 
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
+   <img src="{{site.baseurl}}/assets/images/wip_small.jpg" alt="wip"
  	   title="Under Construction" width="150" height="100" />
  </p>
 </div>

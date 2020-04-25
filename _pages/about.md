@@ -5,9 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-## Author: Pascal Winter
+## Pascal Winter
 
-Pascal Winter
+
 
 
 

@@ -1,13 +1,16 @@
 ---
-layout: archive
-title: "Individual Pooled Annuities"
-permalink: /ipa/
-sidebar:
-  nav: "docs"
-classes: wide
+layout: single
+title: "Modern Tontines"
+permalink: /modern-tontines/
+#sidebar:
+#  nav: "docs"
+classes: wide2 #single
+header:
+  overlay_image: /assets/images/background.jpg
+excerpt: A self organised Retirement Fund
 ---
 
-## IPA: Individual Pooled Annuities
+## Modern Tontines
 ### A self organised Retirement fund
 
 From an actuarial prospective, a **Tontine** can be seen as a vehicle to pool **longevity risk**.
