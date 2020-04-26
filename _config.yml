@@ -26,9 +26,9 @@ minimal_mistakes_skin    : "dirt" # ""default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Actuarial & Analytics Studies"
+title                    : "Pascal Winter"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : # "Actuarial & Analytics Studies" # site tagline that appears below site title in masthead
 name                     : "Pascal Winter"
 description              : "Actuarial & Analytics Studies"
 url                      : "https://winter-aas.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -119,7 +119,7 @@ analytics:
 # Site Author
 author:
   name             : "Pascal Winter"
-  avatar           : #"/assets/images/avatar.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Actuary - Institut des Actuaires"
   #location         : "Taipei, TW"
   email            : "pascal.winter@winter-aas.com"

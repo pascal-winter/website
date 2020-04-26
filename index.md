@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single # archive
 author_profile: true
 permalink: /
 title: "Actuarial & Analytics Studies"
@@ -7,30 +7,36 @@ classes: wide
 header:
   #overlay_color: "#333"
   overlay_image: /assets/images/background.jpg
-  actions:
-     - label: "Modern Tontines"
-       url: "/modern-tontines/"
-     - label: "Toolkit"
-       url: "/toolkit/"
-excerpt: "Distilling Complexity"
+#  actions:
+#     - label: "Modern Tontines"
+#       url: "/modern-tontines/"
+#     - label: "Toolkit"
+#       url: "/toolkit/"
+excerpt: "Distilling Complexity, Extracting Insights"
+author_profile: true
+feature_row:
+  - image_path: #/assets/images/thumb_tontines.png
+    alt: #"P2P Pension Fund"
+    title: "Modern Tontines"
+    excerpt: "Self-hedged Pension Pools providing flexibility and higher returns at low fee"
+    url: "/modern-tontines/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: #/assets/images/thumb_toolkit.png
+    alt: #"Bits and Bolts"
+    title: "Toolkit"
+    excerpt: "Bits and Bolts used in daily Actuarial & Analytics practice                                          "
+    url: "/toolkit/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+#  - image_path: #/assets/images/thumb_about.png
+#    alt: #"About"
+#    title: "About"
+#    excerpt: "Actuary and Data Science Enthusiast with 15 years International Experience in Insurance"
+#    url: "/about/"
+#    btn_class: "btn--primary"
+#    btn_label: "Learn more"     
+
 ---
 
-## Modern Tontines
-### A self organised Retirement fund
-
-From an actuarial prospective, a **Tontine** can be seen as a vehicle to pool **longevity risk**.
-By generalising its mechanism - we can obtain a fund that provides an interesting solution for retirement and/or investment.
-
-In past few years, several academic studies already explored such ideas:
-* [Tontine Pensions](https://scholarship.law.upenn.edu/penn_law_review/vol163/iss3/3/) *(Forman & Sabin, 2015)*
-* [Individual Tontine Annuities](https://ssrn.com/abstract=3217551) *(Fullmer, 2018)*
-* [Pooled-survival fund](https://www.actuaries.asn.au/Library/Events/FSF/2014/NewfieldPostRetirementPaper140505.pdf) *(Newfield, 2014)*
-* [Actuarial fairness and solidarity in pooled annuity funds](https://arxiv.org/abs/1311.5120) *(Donnelly, 2015)*
-
-
-
-## Toolkit
-
-### Basic kits for daily actuarial practice
-
-In the [**Toolkit section**]({{ "/toolkit" | relative_url }}) of this website, I attached some of the basic routines often re-used in daily practice.
+{% include feature_row %}

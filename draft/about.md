@@ -5,9 +5,24 @@ permalink: /about/
 author_profile: true
 classes: single
 toc: true
-toc_label: "Contents"
-toc_sticky: "true"
 ---
+
+## Expertise - Actuarial
+
+### Asset and Liability Management
+
+### Risk Management
+
+
+### Product Development
+
+###
+
+
+## Resume
+
+
+
 
 
 ## Terms and Conditions
