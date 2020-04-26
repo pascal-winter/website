@@ -10,10 +10,11 @@ classes: wide #single
 header:
   overlay_image: /assets/images/background.jpg
   actions:
-     - label: "OICA Presentation - PDF"
-       url: "/modern-tontines/oica-presentation/"
      - label: "Working Paper - PDF"
        url: "/modern-tontines/working-paper/"
+     - label: "Presentation OICA - PDF"
+       url: "/modern-tontines/oica-presentation/"
+
 excerpt:  A Viable Alternative to Retirement Plans ?
 ---
 

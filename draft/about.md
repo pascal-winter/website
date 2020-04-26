@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: /abouthhjh/
 author_profile: true
 classes: single
 toc: true
