@@ -3,10 +3,10 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
-classes: single
-toc: true
-toc_label: "Contents"
-toc_sticky: "true"
+classes: wide # single
+#toc: true
+#toc_label: "Contents"
+#toc_sticky: "true"
 header:
   #overlay_color: "#333"
   overlay_image: /assets/images/background.jpg
@@ -20,22 +20,22 @@ header:
 
 # Experience
 
-I am currently working for BNPP Cardif TCB Life - 合作金庫人壽 - in Taipei, TAIWAN.    
-{: .text-justify}
-
 BNPP Cardif Asia has been my employer for the past 14 years. During this period, I have taken upon several technical and managerial roles in **Actuarial, Finance and Risk Management**:
 {: .text-justify}
-* **2018 ~ Now:** Taiwan, *VP Finance and Actuarial*
+* **2018 ~ Now:** Taiwan, *VP Finance and Actuarial* (合作金庫人壽)
 * **2016 ~ 2018:** China, *Chief Risk Officer*
 * **2015 ~ 2016:** South Korea, *Chief Actuarial and Finance Officer*
 * **2013 ~ 2015:** Hong-Kong: *Risk and Performance Management*
 * **2011 ~ 2013:** India: *Head of ALM*
 * **2006 ~ 2011:** Taiwan: *Actuary / ALM Manager*
 
-This provided my with wide knowledge in Insurance fields such as ALM, Risk Management, Product & Valuation, Management Accounting, Regulatory oversight and Investment to name a few.
+This has allowed me to develop extensive knowledge in Insurance fields such as ALM, Risk Management, Investment, Product & Valuation, Management Accounting and Regulatory oversight to name a few.
 {: .text-justify}
 
-With an appetite for technology, I am naturally inclined to leverage advances in **Data and Analytics** technics to apply them to our daily practices.
+Managerial roles also provided further exposition to Strategic Planning and Transformation, with recurrent subjects of Digitalization, Automation and Data fluency.  
+{: .text-justify}
+
+With an appetite for science and technology, advances in **Data and Analytics** technics are a natural interest for Actuaries to optimize and enhance the daily practice - but also, maybe, the whole insurance activity.
 {: .text-justify}
 
 
