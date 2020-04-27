@@ -25,8 +25,6 @@ Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)
 
 >“The Tontine is perhaps the most discredited financial instrument in history” - Edward Chancellor
 
->"La Tontine n’est qu’un jeu, une gageure. Ce n’est pas une operation d’assurance" - Maurice Picard
-
 ## Abstract
 In the context of global aging population, improved longevity and low interest rates, the question of pension plan under-funding and adequate elderly financial planning is gaining awareness worldwide, both among experts and in popular media. Additional emergence of societal changes - Peer to Peer business model and Financial Disintermediation – might have contributed to the resurgence of “Tontine” in various papers and the proposal of further models such as Tontine Pensions (Forman & Sabin, Survivor Funds, 2016), ITA - Individual Tontine Accounts (Fullmer & Sabin, 2018), Pooled-survival fund (Newfield, 2014), Pooled Annuity Funds (Donnelly, Actuarial fairness and solidarity in pooled annuity funds, 2015), Modern Tontines (Weinert & Grundl, 2016) to name a few.
 {: .text-justify}

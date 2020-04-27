@@ -32,10 +32,10 @@ BNPP Cardif Asia has been my employer for the past 14 years. During this period,
 This has allowed me to develop extensive knowledge in Insurance fields such as ALM, Risk Management, Investment, Product & Valuation, Management Accounting and Regulatory oversight to name a few.
 {: .text-justify}
 
-Managerial roles also provided further exposition to Strategic Planning and Transformation, with recurrent subjects of Digitalization, Automation and Data fluency.  
+Managerial roles also provided exposure to Strategic Planning and Transformation, with recurrent subjects of Digitalization, Automation and Data fluency.  
 {: .text-justify}
 
-With an appetite for science and technology, advances in **Data and Analytics** technics are a natural interest for Actuaries to optimize and enhance the daily practice - but also, maybe, the whole insurance activity.
+With an appetite for science and technology, advances in **Data and Analytics** technics are a natural interest for Actuaries to optimize and enhance the daily practice - and also the whole insurance activity.
 {: .text-justify}
 
 

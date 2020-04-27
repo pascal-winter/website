@@ -7,17 +7,22 @@ toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/equation3small.png
-  teaser: /assets/images/equation3.png
+  image: /assets/images/kmlong.png
+  teaser: /assets/images/kmsquare.png #equation3.png
 
 ---
-The documentation for this study is WIP:
+
+
+
+The documentation for this routine is WIP:
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
- 	   title="Under Construction" width="150" height="100" />
+   <img src="/assets/images/wip2.png" alt="wip"
+ 	   title="Under Construction" width="250" height="100" />
  </p>
 </div>
+
+
 
 ## Methodology
 
@@ -30,7 +35,7 @@ $$\hat{S}(t) = \prod_{t_i \lt t} \frac{n_i - d_i}{n_i}$$
 with $$d_i$$ the number of "failures" at time $$t$$ and $$n_i$$ the exposed population just before time $$t$$.
 
 **Tip:**   
-The **Kaplan-Meier estimator** intuition is generally easy to grasp on a simple practical example. One of them can be found here: [**KaplanMeier_Refresh.xlsx**](https://github.com/pascal-winter/actuarial-tools/tree/master/2.DOCS)
+The **Kaplan-Meier estimator** intuition is generally easy to grasp on a simple practical example. One of them can be found here: [**KaplanMeier_Refresh.xlsx**]({{ "/assets/other/KaplanMeier_Refresh.xlsx" | relative_url }})
 {: .notice--warning}
 
 

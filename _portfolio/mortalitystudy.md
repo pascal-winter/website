@@ -7,20 +7,19 @@ toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/equation2small.png
-  #image: /assets/images/equation2.png
-  teaser: /assets/images/equation2.png
+  image: /assets/images/mortlong.png
+  #image: /assets/images/mortsquare.png
+  teaser: /assets/images/mortsquare.png
 
 ---
 
-The documentation for this study is WIP:
+The documentation for this routine is WIP:
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
- 	   title="Under Construction" width="150" height="100" />
+   <img src="/assets/images/wip2.png" alt="wip"
+ 	   title="Under Construction" width="250" height="100" />
  </p>
 </div>
-
 
 
 ## Convention and Hypothesis

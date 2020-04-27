@@ -7,7 +7,7 @@ toc: true
 #toc_sticky: true
 toc_label: "Content"
 header:
-  image: /assets/images/titanic/titanic.jpg
+  image: /assets/images/titanic/titanic2.png
   teaser: /assets/images/titanic/titanic.jpg
 #sidebar:
 #  - title: "Titanic Dataset"
@@ -29,10 +29,10 @@ The full kernel can be accessed in the GitHub repository [da-tools](https://gith
 - DA library: [dalib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/dalib.py)
 {: .notice--warning}
 
-The documentation for this study is WIP:
+The documentation for this routine is WIP:
 <div>
  <p align="center">
-   <img src="/assets/images/wip_small.jpg" alt="wip"
- 	   title="Under Construction" width="150" height="100" />
+   <img src="/assets/images/wip2.png" alt="wip"
+ 	   title="Under Construction" width="250" height="100" />
  </p>
 </div>
