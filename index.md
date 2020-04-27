@@ -24,8 +24,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: #/assets/images/thumb_toolkit.png
     alt: #"Bits and Bolts"
-    title: "Toolkit"
-    excerpt: "Bits and Bolts used in daily Actuarial & Analytics practice                                          "
+    title: "Bits and Bolts"
+    excerpt: "Small routines used in daily Actuarial & Analytics practice                      "
     url: "/toolkit/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
