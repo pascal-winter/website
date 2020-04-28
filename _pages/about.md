@@ -20,7 +20,7 @@ header:
 
 # Experience
 
-BNPP Cardif Asia has been my employer for the past 14 years. During this period, I have taken upon several technical and managerial roles in **Actuarial, Finance and Risk Management**:
+BNPP Cardif Asia has been my employer since 2006. During this period, I have taken upon several technical and managerial roles in **Actuarial, Finance and Risk Management**:
 {: .text-justify}
 * **2018 ~ Now:** Taiwan, *VP Finance and Actuarial* (合作金庫人壽)
 * **2016 ~ 2018:** China, *Chief Risk Officer*
@@ -28,15 +28,6 @@ BNPP Cardif Asia has been my employer for the past 14 years. During this period,
 * **2013 ~ 2015:** Hong-Kong: *Risk and Performance Management*
 * **2011 ~ 2013:** India: *Head of ALM*
 * **2006 ~ 2011:** Taiwan: *Actuary / ALM Manager*
-
-This has allowed me to develop extensive knowledge in Insurance fields such as ALM, Risk Management, Investment, Product & Valuation, Management Accounting and Regulatory oversight to name a few.
-{: .text-justify}
-
-Managerial roles also provided exposure to Strategic Planning and Transformation, with recurrent subjects of Digitalization, Automation and Data fluency.  
-{: .text-justify}
-
-With an appetite for science and technology, advances in **Data and Analytics** technics are a natural interest for Actuaries to optimize and enhance the daily practice - and also the whole insurance activity.
-{: .text-justify}
 
 
 # Terms and Conditions
