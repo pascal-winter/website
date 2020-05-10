@@ -23,10 +23,10 @@ header:
 # {% include gallery caption="This is a sample gallery to go along with this case study." %}
 ---
 **Note:**
-The full kernel can be accessed in the GitHub repository [da-tools](https://github.com/pascal-winter/da-tools/){: .btn .btn--success}   
-- Main code: [da_titanic.py](https://github.com/pascal-winter/da-tools/blob/master/da_titanic.py)
-- Graph library: [graphlib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/graphlib.py)
-- DA library: [dalib.py](https://github.com/pascal-winter/da-tools/blob/master/libpw/dalib.py)
+The full kernel can be accessed in the GitHub repository [bits-and-bolts](https://github.com/pascal-winter/bits-and-bolts/){: .btn .btn--success}   
+- Main code: [da_titanic.py](https://github.com/pascal-winter/bits-and-bolts/blob/master/da_titanic.py)
+- Graph library: [graphlib.py](https://github.com/pascal-winter/bits-and-bolts/blob/master/libpw/graphlib.py)
+- DA library: [dalib.py](https://github.com/pascal-winter/da-tools/bits-and-bolts/master/libpw/dalib.py)
 {: .notice--warning}
 
 The documentation for this routine is WIP:

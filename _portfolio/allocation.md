@@ -23,7 +23,7 @@ While a simple spreadsheet is often enough to solve simple cases, the more compl
 In the context of **IFRS17**, this problematic becomes even more crucial. With  increased granularity of the P/L statements - at least by **Unit of Account** - some global revenues and expense items will have to be allocated - furthermore on a Monthly or Quarterly basis as part of the critical closing process. Typical examples are **IACF** and trailer fees.
 This new level of complexity will require adequate tools and automation.
 
-We propose here a simple example to test the potential of the `Pandas` Python library for such allocation - on a simple example.
+Here is an illustration to showcase the potential of the `Pandas` Python library for such allocation - on a simple example.
 
 
 

@@ -13,8 +13,8 @@ excerpt:   A Viable Alternative to Retirement Plans ?
 
 ## Modern Tontines: A Viable Alternative to Retirement Plans ?
 
-Direct Download Link: [*Working Paper*]({{ "/assets/other/202004_ModernTontines_WP_v1.05.pdf" | relative_url }}){: .btn .btn--success}
+Direct Download Link: [*Working Paper*]({{ "/assets/other/Tontines_Article_v1.5.pdf" | relative_url }}){: .btn .btn--success}
 
 ### Embedded Presentation
 
-<object data="/assets/other/202004_ModernTontines_WP_v1.05.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<object data="/assets/other/Tontines_Article_v1.5.pdf" width="1000" height="1000" type='application/pdf'/></object>
