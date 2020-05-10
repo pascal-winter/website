@@ -9,7 +9,7 @@ toc_label: "Content"
 header:
   #overlay_color: "#333"
   image: /assets/images/esg/esg2.png
-  teaser: /assets/images/esg/esg.png
+  teaser: /assets/images/esg.png
 
 ---
 
