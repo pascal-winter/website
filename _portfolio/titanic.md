@@ -4,7 +4,7 @@ title: "Titanic Kaggle: Basic Machine learning"
 excerpt: "The infamous collision dataset"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   image: /assets/images/titanic/titanic2.png

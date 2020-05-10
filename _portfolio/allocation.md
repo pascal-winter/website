@@ -3,7 +3,7 @@ title: "Allocation Engine"
 excerpt: "A simple routine for allocating anything"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   image: /assets/images/opex/asteroids.jpg

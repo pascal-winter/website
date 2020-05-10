@@ -4,7 +4,7 @@ title: "Economic Scenarios Generator"
 excerpt: "Visualisation and Characterisation"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   #overlay_color: "#333"

@@ -4,7 +4,7 @@ title: "Exoplanet"
 excerpt: "Basic clustering tryout"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   image: /assets/images/exoplanet/exoplanet.png

@@ -4,7 +4,7 @@ title: "Mortality Study"
 excerpt: "Classic portfolio review"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   image: /assets/images/mortlong.png

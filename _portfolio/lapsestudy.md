@@ -4,7 +4,7 @@ title: "Lapse Study"
 excerpt: "Kaplan Meier for the masses"
 classes: wide2
 toc: true
-#toc_sticky: true
+toc_sticky: true
 toc_label: "Content"
 header:
   image: /assets/images/kmlong.png
