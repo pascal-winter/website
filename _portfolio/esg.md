@@ -1,7 +1,7 @@
 ---
 layout: single2
-title: "Economic Scenarios Generator"
-excerpt: "Visualisation and Characterisation"
+title: "ESG - Visualisation"
+excerpt: "Simple Scenarios Overview"
 classes: wide2
 toc: true
 toc_sticky: true
