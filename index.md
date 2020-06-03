@@ -12,7 +12,7 @@ header:
 #       url: "/modern-tontines/"
 #     - label: "Toolkit"
 #       url: "/toolkit/"
-excerpt: "Distilling Complexity, Extracting Insights"
+excerpt: #"Distilling Complexity, Extracting Insights"
 author_profile: true
 feature_row:
   - image_path: #/assets/images/thumb_tontines.png
