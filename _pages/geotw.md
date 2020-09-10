@@ -13,4 +13,4 @@ excerpt:  Testing Plotly Maps
 
 ## Average People per Household
 
-<iframe width="500" height="800" frameborder="0.5" scrolling="no" src="/assets/other/fig4.html"></iframe>
+<iframe width="800" height="1200" frameborder="0.5" scrolling="no" src="/assets/other/fig4.html"></iframe>
