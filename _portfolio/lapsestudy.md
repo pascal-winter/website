@@ -19,15 +19,16 @@ We look here at how a **dynamic web dashboard** can be used in the day to day ac
 
 
 ## Benefits of Dynamic dashboards
+Due to regulatory requirements, increased market pressure or internal needs, the segmentation, periodicity and granularity of assumption update is increasing rapidly.
 
-### Increased need for automation
-With increased regulatory and internal segmentation, the periodicity and granularity of assumption update constantly increases - making **automation** of various portfolio subset estimation an important brick in the closing process of insurance companies.    
+### Need for automation
+The volume of information to be treated and the number of portfolio subsets to be studied makes **effective automation** an important brick in the closing process of insurance companies.    
 
 ### Data visualisation
-The increasing level of granularity required increases the volume of information to be processed by actuaries, making **data visualisation** a powerful human assistance to detect and manage trends/ abnormalities.
+Once processed, the resulting information must be carefully studied by actuaries, making **data visualisation** a powerful human assistance to detect and manage trends and abnormalities.
 
 ### Flexible, immediate and distributed
-The ability to query "on-demand" the estimation on various portfolio subsets provides increased reactivity for **informed decision-making**.
+The ability to query "on-demand" the estimation on various portfolio subsets provides increased reactivity for **informed decision-making** and reactive management.
 
 
 ## Methodology
