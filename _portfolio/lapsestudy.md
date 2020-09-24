@@ -28,7 +28,7 @@ The volume of information to be treated and the number of portfolio subsets to b
 Once processed, the resulting information must be carefully studied by actuaries, making **data visualisation** a powerful human assistance to detect and manage trends and abnormalities.
 
 ### Flexible, immediate and distributed
-The ability to query "on-demand" the estimation on various portfolio subsets provides increased reactivity for **informed decision-making** and reactive management.
+The ability to query "on-demand" the estimation on various portfolio subsets provides increased reactivity for **informed decision-making** and proactive management.
 
 
 ## Methodology
