@@ -53,4 +53,4 @@ As an InsurTech entrepreneur ecosystem enthusiast, I am active as an independent
 ## Experience
 
 Direct Download Link: [*Experience*]({{ "/assets/other/Experience.pdf" | relative_url }}){: .btn .btn--success}
-<object data="/assets/other/Experience.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<object data="/assets/other/Experience.pdf" width="1000" height="1414" type='application/pdf'/></object>

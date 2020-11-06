@@ -54,7 +54,7 @@ feature_row:
   - image_path: #/assets/images/about.png
     alt: ""
     title: "InsurTech Intelligence"
-    excerpt: "Startup Scouting, Insurance Technology watch, Innovation Lab Mentoring"
+    excerpt: "Startup Scouting, Insurance Technology watch, Innovation Lab support"
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
