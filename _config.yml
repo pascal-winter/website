@@ -26,7 +26,7 @@ minimal_mistakes_skin    : "dirt" # ""default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Pascal Winter AAS"
+title                    : "Pascal Winter"
 title_separator          : "-"
 subtitle                 : # "Actuarial & Analytics Studies" # site tagline that appears below site title in masthead
 name                     : "Pascal Winter"
