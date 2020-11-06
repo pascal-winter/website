@@ -9,7 +9,7 @@ classes: wide # single
 #toc_sticky: "true"
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/background.jpg
+  overlay_image: /assets/images/back3.png
 #  actions:
 #     - label: "Modern Tontines"
 #       url: "/modern-tontines/"
@@ -18,24 +18,39 @@ header:
 
 ---
 
-# Experience
+## Qualified Actuary with 15 years experience in Life Insurance in Asia
 
-BNPP Cardif Asia has been my employer since 2006. During this period, I have taken upon several technical and managerial roles in **Actuarial, Finance and Risk Management**:
-{: .text-justify}
-* **2018 ~ Now:** Taiwan, *VP Finance and Actuarial* (合作金庫人壽)
-* **2016 ~ 2018:** China, *Chief Risk Officer*
-* **2015 ~ 2016:** South Korea, *Chief Actuarial and Finance Officer*
-* **2013 ~ 2015:** Hong-Kong: *Risk and Performance Management*
-* **2011 ~ 2013:** India: *Head of ALM*
-* **2006 ~ 2011:** Taiwan: *Actuary / ALM Manager*
-
-
-# Terms and Conditions
-
-All content provided on this blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information. These terms and conditions of use are subject to change at any time and without notice.
+With an Actuarial qualification and a natural taste for adventure, I took upon several executive positions in my 15 years working for BNPP Cardif Insurance in places such as Taiwan, India,  Hong-Kong, Korea, China.
 {: .text-justify}
 
-# Privacy Policy
+With various C-positions (CAFO, CRO), I have developed practical and managerial expertise in various domains, such as:
+* Asset & Liability Management & Risk Appetite framework
+* Product Development and Engineering
+* Capital Requirement (CROSS, Solvency 2)
+* Strategic Development, Performance Management and Management Accounting
+* Data Transformation Project, Business Intelligence and Data analytics
+* Experience Study automation and Valuation process optimisation
+* IFRS17
 
-I do not share personal information with third-parties nor do I store information I collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your internet browser's settings. I am not responsible for the republishing of the content found on this blog on other websites or media without our permission. This privacy policy is subject to change without notice.
+
+## Philosophy
+
+> Leverage Technology to enhance Insurance and Actuarial Practice
+
+With the managerial dimension of my previous roles, I have always kept a strong inclination for tech, hands-on practice and innovation. I found the new tools at the disposition of actuaries and insurance practitioners mind-boggling for the new possibilities they are opening (with coding skills, an actuary can now distill the complexity with an ease we couldn't conceive 15 years ago). In parallel, InsurTechs and Corporations are moving fast - which I find both exciting and inspiring for the future of Insurance.
 {: .text-justify}
+
+> InsurTech and ActuarialTech enthusiast
+
+As an InsurTech entrepreneur ecosystem enthusiast, I am active as an independent to blend insurance experience and actuarial expertise with the technical world. I focus on understanding the fast-paced insurance startup world, researching innovative insurance solutions and developing practical actuarial tech for established firms and startups.
+{: .text-justify}
+
+## Terms & Condition, Privacy
+
+[Terms & Condition]({{ "/legal/" | relative_url }})
+
+
+## Experience
+
+Direct Download Link: [*Experience*]({{ "/assets/other/Experience.pdf" | relative_url }}){: .btn .btn--success}
+<object data="/assets/other/Experience.pdf" width="1000" height="1000" type='application/pdf'/></object>

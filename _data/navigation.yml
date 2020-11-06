@@ -15,46 +15,47 @@
   main:
   - title: "Home"
     url: /
+  - title: "Services"
+    url: /services/
   - title: "Modern Tontines"
     url: /modern-tontines/
-  - title: "Bits & Bolts"
-    url: /toolkit/
-#  - title: "External Links"
-#    url: /external-links/
-  - title: "About"
+  - title: "About Me"
     url: /about/
+  - title: "Contact"
+    url: /contact/
+
 
 # Sidebar #################
-  docs:
-  - title: "Introduction"
-    url: /modern-tontines/intro/
-    children:
-      - title: "Abstract"
-        url: /ipa/introduction/#abstract
-      - title: "History"
-        url: /ipa/introduction/#history
-      - title: "Current Practices"
-        url: /ipa/introduction/#current
-
-  - title: "Formalisation"
-    url: /modern-tontines/formalisation/
-    children:
-      - title: "IPA funds concept"
-        url: /ipa/formalisation/#concept
-      - title: "Mathematics"
-        url: /ipa/formalisation/#mathematics
-
-  - title: "Simulation"
-    url: /ipa/simulation
-    children:
-      - title: "Population"
-        url: /ipa/simulation/#modelpoint
-      - title: "Algorithm"
-        url: /ipa/simulation/#algorithm
-
-  - title: "Extras"
-    children:
-      - title: "AAAAAAAAA"
-        url: /docs/stylesheets/
-      - title: "AAAAAAA"
-        url: /docs/javascript/
+  # docs:
+  # - title: "Introduction"
+  #   url: /modern-tontines/intro/
+  #   children:
+  #     - title: "Abstract"
+  #       url: /ipa/introduction/#abstract
+  #     - title: "History"
+  #       url: /ipa/introduction/#history
+  #     - title: "Current Practices"
+  #       url: /ipa/introduction/#current
+  #
+  # - title: "Formalisation"
+  #   url: /modern-tontines/formalisation/
+  #   children:
+  #     - title: "IPA funds concept"
+  #       url: /ipa/formalisation/#concept
+  #     - title: "Mathematics"
+  #       url: /ipa/formalisation/#mathematics
+  #
+  # - title: "Simulation"
+  #   url: /ipa/simulation
+  #   children:
+  #     - title: "Population"
+  #       url: /ipa/simulation/#modelpoint
+  #     - title: "Algorithm"
+  #       url: /ipa/simulation/#algorithm
+  #
+  # - title: "Extras"
+  #   children:
+  #     - title: "AAAAAAAAA"
+  #       url: /docs/stylesheets/
+  #     - title: "AAAAAAA"
+  #       url: /docs/javascript/

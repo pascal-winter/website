@@ -1,14 +1,14 @@
 ---
-layout: single
+layout: splash #single2
 title: "Modern Tontines"
 permalink: /modern-tontines/
-author_profile: true
+author_profile: false
 #sidebar:
 #  nav: "docs"
 #toc: true
-classes: wide #single
+#classes: wide2 #single
 header:
-  overlay_image: /assets/images/background.jpg
+  overlay_image: /assets/images/back.png
   actions:
      - label: "Working Paper - PDF"
        url: "/modern-tontines/working-paper/"
@@ -17,13 +17,25 @@ header:
 
 excerpt:  A Viable Alternative to Retirement Plans ?
 ---
-
 # Modern Tontines: A Viable Alternative to Retirement Plans ?
-
-Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)   
-
+Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)  
 
 >“The Tontine is perhaps the most discredited financial instrument in history” - Edward Chancellor
+
+
+
+## Global environment is putting many pension schemes under pressure
+* Low Rates and Increased Longevity have made life annuities impractical
+* Adequate elderly financial planning is more needed than ever
+
+> Retirement Decumulation is the "nastiest, hardest, problem in finance" - William Sharpe
+
+## Modern Tontines, as a retirement vessel, can efficiently solve the anuity puzzle
+A Flexible, Transparent and Efficient pension solution:
+
+![image-right](/assets/images/tontines_graph.png){: .align-center}
+
+
 
 ## Abstract
 In the context of global aging population, improved longevity and low interest rates, the question of pension plan under-funding and adequate elderly financial planning is gaining awareness worldwide, both among experts and in popular media. Additional emergence of societal changes - Peer to Peer business model and Financial Disintermediation – might have contributed to the resurgence of “Tontine” in various papers and the proposal of further models such as Tontine Pensions (Forman & Sabin, Survivor Funds, 2016), ITA - Individual Tontine Accounts (Fullmer & Sabin, 2018), Pooled-survival fund (Newfield, 2014), Pooled Annuity Funds (Donnelly, Actuarial fairness and solidarity in pooled annuity funds, 2015), Modern Tontines (Weinert & Grundl, 2016) to name a few.
