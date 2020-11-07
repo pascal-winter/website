@@ -18,12 +18,12 @@ header:
 
 ---
 
-## Qualified Actuary with 15 years experience in Life Insurance in Asia
+## Qualified Actuary with 15 years experience
 
 With an Actuarial qualification and a natural taste for adventure, I took upon several executive positions in my 15 years working for BNPP Cardif Insurance in places such as Taiwan, India,  Hong-Kong, Korea, China.
 {: .text-justify}
 
-With various C-positions (CAFO, CRO), I have developed practical and managerial expertise in various domains, such as:
+With several technical and managerial roles (CAFO, CRO, Head of ALM...), I have developed practical and managerial expertise in various domains, such as:
 * Asset & Liability Management & Risk Appetite framework
 * Product Development and Engineering
 * Capital Requirement (CROSS, Solvency 2)

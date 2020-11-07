@@ -18,7 +18,8 @@ header:
 excerpt:  A Viable Alternative to Retirement Plans ?
 ---
 # Modern Tontines: A Viable Alternative to Retirement Plans ?
-Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)  
+* Author: [**Pascal Winter**](/about/)        
+* Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)  
 
 >“The Tontine is perhaps the most discredited financial instrument in history” - Edward Chancellor
 
