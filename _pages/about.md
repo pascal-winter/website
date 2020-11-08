@@ -20,10 +20,10 @@ header:
 
 ## Qualified Actuary with 15 years experience
 
-With an Actuarial qualification and a natural taste for adventure, I took upon several executive positions in my 15 years working for BNPP Cardif Insurance in places such as Taiwan, India,  Hong-Kong, Korea, China.
+With an Actuarial qualification and a natural taste for adventure, I took upon several positions in my 15 years working for BNPP Cardif Insurance in places such as Taiwan, India,  Hong-Kong, Korea, China.
 {: .text-justify}
 
-With several technical and managerial roles (CAFO, CRO, Head of ALM...), I have developed practical and managerial expertise in various domains, such as:
+With several technical and executive roles (CAFO, CRO, Head of ALM...), I have developed practical and managerial expertise in various domains, such as:
 * Asset & Liability Management & Risk Appetite framework
 * Product Development and Engineering
 * Capital Requirement (CROSS, Solvency 2)
@@ -37,7 +37,7 @@ With several technical and managerial roles (CAFO, CRO, Head of ALM...), I have 
 
 > Leverage Technology to enhance Insurance and Actuarial Practice
 
-With the managerial dimension of my previous roles, I have always kept a strong inclination for tech, hands-on practice and innovation. I found the new tools at the disposition of actuaries and insurance practitioners mind-boggling for the new possibilities they are opening (with coding skills, an actuary can now distill the complexity with an ease we couldn't conceive 15 years ago). In parallel, InsurTechs and Corporations are moving fast - which I find both exciting and inspiring for the future of Insurance.
+Alongside the managerial dimension, I have always kept a strong inclination for tech, hands-on practice and innovation. I found the new tools at the disposition of actuaries and insurance practitioners mind-boggling for the new possibilities they are opening (with coding skills, an actuary can now distill the complexity with an ease we couldn't conceive 15 years ago). In parallel, InsurTechs and Corporations are moving fast - which I find both exciting and inspiring for the future of Insurance.
 {: .text-justify}
 
 > InsurTech and ActuarialTech enthusiast
