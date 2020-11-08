@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/about.png
     alt: #"P2P Pension Fund"
     title: "About"
-    excerpt: "About Me"
+    excerpt: "Presentation and Experience"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "About"
