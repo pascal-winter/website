@@ -1,33 +1,6 @@
 
 Thanks to [**Minimal Mistakes**](https://mmistakes.github.io/minimal-mistakes/) for the great theme.
 
-## Life Actuarial Tinkering
-
-### "Bits and Bolts" for practical  use
-
-**Details and walkthrough** can be found here: [**https://pascal-winter.github.io/website/toolkit/**](https://pascal-winter.github.io/website/toolkit/)
-
-#### Current Tools:
-* **OPEX study**: allocation example with `PANDAS`
-* **ESG**: simple Economic Scenario Generator
-* **Lapse Study**: Kaplan Meier for the masses
-* **Mortality Study**: Classic portfolio review
-
-#### Other analysis:
-* **Titanic**: the infamous Titanic accident dataset from Kaggle
-
-
-## Rationale
-
-When first introduced to Pandas, Numpy and other scientific packages for "non-IT experts" - it immediately seemed like it had a huge potential for daily actuarial practice:
-* Data wrangling capabilities
-* Replicability
-* Robustness
-* Depth of available libraries
-* Possible integration in company systems   
-
-This repository regroups some of the routines I developed on my free time while tinkering with these packages.
-
 ## Deviation From the Minimal Mistake theme
 
 ### Added new option "wide2" for layouts
