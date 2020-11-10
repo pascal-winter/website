@@ -17,7 +17,7 @@ feature_row:
     excerpt: "Pricing, Advanced Modelisation and Engineering"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
   - image_path: #/assets/images/tontines.png
     alt: ""
@@ -25,7 +25,7 @@ feature_row:
     excerpt: "IFRS17 support, Experience Study automation, Reserving process"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
   - image_path: #/assets/images/about.png
     alt: ""
@@ -33,7 +33,7 @@ feature_row:
     excerpt: "Data Strategy Support and Analytics projects support"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
   - image_path: #/assets/images/about.png
     alt: ""
@@ -41,7 +41,7 @@ feature_row:
     excerpt: "ALM strategy and modelisation, Capital Requirement (Solvency2 and ICS), Risk Mapping and Risk Appetite Framework"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
   - image_path: #/assets/images/about.png
     alt: ""
@@ -49,7 +49,7 @@ feature_row:
     excerpt: "Performance Management Automation, Business Intelligence and Strategic Steering Dashboards"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
   - image_path: #/assets/images/about.png
     alt: ""
@@ -57,7 +57,7 @@ feature_row:
     excerpt: "Startup Scouting, Insurance Technology watch, Innovation Lab support"
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
 
 
 
