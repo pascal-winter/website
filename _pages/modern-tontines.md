@@ -31,7 +31,7 @@ excerpt:  A Viable Alternative to Retirement Plans ?
 
 > Retirement Decumulation is the "nastiest, hardest, problem in finance" - William Sharpe
 
-## Modern Tontines, as a retirement vessel, can efficiently solve the anuity puzzle
+## Modern Tontines, as a retirement vessel, can efficiently solve the annuity puzzle
 A Flexible, Transparent and Efficient pension solution:
 
 ![image-right](/assets/images/tontines_graph.png){: .align-center}
