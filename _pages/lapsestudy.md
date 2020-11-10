@@ -1,31 +1,36 @@
 ---
-layout: single2
-title: "Persistency Dashboard"
-excerpt: "Dynamic Portfolio Visualisation"
-classes: wide2
-toc: true
-toc_sticky: true
-toc_label: "Content"
+layout: splash
+title: "Surrender Dynamic Estimation"
+permalink: /lapse/
+author_profile: true
+classes: wide # single
+#toc: true
+#toc_label: "Contents"
+#toc_sticky: "true"
 header:
-  image: /assets/images/kmlong.png
-  teaser: /assets/images/lapse_dash.png #kmsquare.png #equation3.png
-
+  #overlay_color: "#333"
+  overlay_image: /assets/images/back2.png
+  actions:
+     - label: "Dynamic Dashboard"
+       url: "https://app.winter-aas.com/surrenders/"
+#     - label: "Toolkit"
+#       url: "/toolkit/"
+excerpt:  Automation and Visualisation
 ---
 
 
 Lapse, surrender and recovery curves estimation are a key components in the pricing and valuation of Insurance business.    
-We look here at how a **dynamic web dashboard** can be used in the day to day actuarial practice.   
-<a href="https://app.winter-aas.com/surrenders/" target="_blank">Mockup Dashboard</a>{: .btn .btn--success}
+**Dynamic web dashboard** can be used in day to day actuarial practice to reduce manual tasks and allow actuaries to focus on **value added** analysis.
 
 
 ## Benefits of Dynamic dashboards
-Due to regulatory requirements, increased market pressure or internal needs, the segmentation, periodicity and granularity of assumption update is increasing rapidly.
+> Regulatory requirements, IFRS17, increased market pressure and internal needs require Actuarial team to increase segmentation, periodicity and granularity of assumption update
 
 ### Need for automation
 The volume of information to be treated and the number of portfolio subsets to be studied makes **effective automation** an important brick in the closing process of insurance companies.    
 
 ### Data visualisation
-Once processed, the resulting information must be carefully studied by actuaries, making **data visualisation** a powerful human assistance to detect and manage trends and abnormalities.
+Complexity and volume of information make **effective data visualisation** a must have to detect and manage trends in portfolios.
 
 ### Flexible, immediate and distributed
 The ability to query "on-demand" the estimation on various portfolio subsets provides increased reactivity for **informed decision-making** and proactive management.
