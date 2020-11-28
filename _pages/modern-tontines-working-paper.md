@@ -7,7 +7,7 @@ author_profile: true
 #  nav: "docs"
 classes: wide #single
 header:
-  overlay_image: /assets/images/back.png
+  overlay_image: /assets/images/back2.png
 excerpt:   A Viable Alternative to Retirement Plans ?
 ---
 

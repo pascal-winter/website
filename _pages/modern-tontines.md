@@ -8,7 +8,7 @@ author_profile: false
 #toc: true
 #classes: wide2 #single
 header:
-  overlay_image: /assets/images/back.png
+  overlay_image: /assets/images/back2.png
   actions:
      - label: "Working Paper - PDF"
        url: "/modern-tontines/working-paper/"
