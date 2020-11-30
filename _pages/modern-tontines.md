@@ -14,9 +14,27 @@ header:
        url: "/modern-tontines/working-paper/"
      - label: "Presentation OICA - PDF"
        url: "/modern-tontines/oica-presentation/"
+     - label: "Nuovalo Solutions"
+       url: "https://www.nuovalo.com"
 
 excerpt:  A Viable Alternative to Retirement Plans ?
+
+
+feature_row:
+  - image_path: /assets/images/nuovalo-gear-name.png
+    alt: #"Bits and Bolts"
+    title: "Nuovalo Tontines Solutions"
+    excerpt: "Practical Modern Tontines implementation"
+    url: "https://www.nuovalo.com"
+    btn_class: "btn--primary"
+    btn_label: "Get Started"
+
+
 ---
+
+{% include feature_row type="center"%}
+
+
 # Modern Tontines: A Viable Alternative to Retirement Plans ?
 * Author: [**Pascal Winter**](/about/)        
 * Co-Author: [**Frederic Planchet**](http://www.ressources-actuarielles.net/)  
