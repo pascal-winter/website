@@ -13,6 +13,8 @@ header:
        url: "/services/"
      - label: "Contact"
        url: "/about/"
+     - label: "Nuovalo"
+       url: "https://www.nuovalo.com"
 
 feature_row:
   - image_path: /assets/images/service.png
@@ -25,7 +27,7 @@ feature_row:
   - image_path: /assets/images/tontines.png
     alt: #"P2P Pension Fund"
     title: "Modern Tontines"
-    excerpt: "Fair, Flexible and Efficient Retirement Pools"
+    excerpt: "Fully funded, lifetime pensions at low cost"
     url: "/modern-tontines/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
