@@ -30,7 +30,7 @@ title                    : "Winter AAS"
 title_separator          : "-"
 subtitle                 : "Actuarial & Analytics Studies" # site tagline that appears below site title in masthead
 name                     : "Winter AAS"
-description              : "Actuarial & Analytics Services"
+description              : #"Actuarial & Analytics Services"
 url                      : "https://www.winter-aas.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               :  pascal-winter/website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
