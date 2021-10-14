@@ -8,7 +8,7 @@ author_profile: true
 classes: wide #single
 header:
   overlay_image: /assets/images/back2.png
-excerpt:  A Viable Alternative to Retirement Plans ?
+excerpt:  Longevity Income Pools as a retirement solution
 ---
 
 ## Modern Tontines: A Viable Alternative to Retirement Plans ?
